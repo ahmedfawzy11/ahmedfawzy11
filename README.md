@@ -30,9 +30,6 @@
 <a href="https://stackoverflow.com/users/8146570/ahmed-fawzy" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/ahmedfawzy11" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
 <a href="https://codepen.com/AhmedFawzy" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
@@ -116,4 +113,4 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=default" /></div>  
 
-[![](https://visitcount.itsvg.in/api?id=ahmedfawzy11&icon=8&color=10)](https://visitcount.itsvg.in)
+[![]<div align="center">(https://visitcount.itsvg.in/api?id=ahmedfawzy11&icon=8&color=10)](https://visitcount.itsvg.in) </div>
