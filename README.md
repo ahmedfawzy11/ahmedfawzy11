@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/30273995/191280612-4db9b17d-90e2-488c-887a-c2858efeb1bd.gif" align="center" style="width: 100%" />
 </div>  
-<div align="center"><h1> I'm <b>Ahmed Fawzy</b>, a Software Engineer 👨‍💻🤖 </h1></div>  
+<div align="center"><h1> I'm <i>Ahmed Fawzy</i>, a Software Engineer 👨‍💻🤖 </h1></div>  
 
 <h2> 💫 About Me: </h2>
 
@@ -113,15 +113,9 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![](https://visitcount.itsvg.in/api?id=ahmedfawzy11&icon=8&color=10)](https://visitcount.itsvg.in)
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=default" /></div>  
 
 </br>
-<div align="center">
-            <a href="https://www.buymeacoffee.com/ahmedfawzy" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+[![](https://visitcount.itsvg.in/api?id=ahmedfawzy11&icon=8&color=10)](https://visitcount.itsvg.in)
