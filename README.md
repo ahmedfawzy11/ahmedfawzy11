@@ -104,7 +104,7 @@
 <h2> 😂 Random Dev Meme: </h2>
 
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
