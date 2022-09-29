@@ -87,9 +87,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedfawzy11&layout=compact&theme=theme_name)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 🏆 GitHub Trophies:</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=ahmedfawzy11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
