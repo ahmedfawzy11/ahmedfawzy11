@@ -7,10 +7,10 @@
 
 <h2> 💫 About Me: </h2>
 
-- 👨‍💻 I’m Currently Working on [Flutter Projects]([https://www.buymeacoffee.com/ahmedfawzy](https://github.com/ahmedfawzy11?tab=repositories))  
+- 👨‍💻 I’m Currently Working on [Flutter Projects]([https://www.buymeacoffee.com/ahmedfawzy](https://github.com/ahmedfawzyjr?tab=repositories))  
 - 🚀 I’m Currently Learning Mobile Development Using Flutter  
 - ❓ Ask Me About Anything Related to Mobile Development and Related Technologies  
-- 🤖 Here's [ My Resume ](https://drive.google.com/drive/u/0/folders/1S9YKZS6dyY3lHN9p3T5IQIKS6rpX0Pi1)  
+- 🤖 Here's [ My Resume ](https://drive.google.com/file/d/13JQImTwbwtLa8lSgVjkg54XfuLtKzPGJ/view?usp=sharing)  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 🌐 Socials: </h2>
 
@@ -92,7 +92,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ⚡ Recent GitHub Activity: </h2>
 
-   <a href="(https://github.com/ahmedfawzy11)"><img alt="Ahmed Fawzy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedfawzy11&bg_color=0a0005&color=ffffff&line=b300a7&point=5a585a&area=true&hide_border=true" /></a>
+   <a href="(https://github.com/ahmedfawzyjr)"><img alt="Ahmed Fawzy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedfawzyjr&bg_color=0a0005&color=ffffff&line=b300a7&point=5a585a&area=true&hide_border=true" /></a>
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ✍️ Random Dev Quote: </h2>
