@@ -10,7 +10,7 @@
 - 👨‍💻 I’m Currently Working on [Flutter Projects]([https://www.buymeacoffee.com/ahmedfawzy](https://github.com/ahmedfawzyjr?tab=repositories))  
 - 🚀 I’m Currently Learning Mobile Development Using Flutter  
 - ❓ Ask Me About Anything Related to Mobile Development and Related Technologies  
-- 🤖 Here's [ My Resume ](https://drive.google.com/file/d/13JQImTwbwtLa8lSgVjkg54XfuLtKzPGJ/view?usp=sharing)  
+- 🤖 Here's [ My Resume ](https://drive.google.com/file/d/1UOs7ERgygxtI0qWAFPgehhryg2A5pImP/view?usp=sharing)  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 🌐 Socials: </h2>
 
@@ -90,19 +90,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2> ⚡ Recent GitHub Activity: </h2>
 
-   <a href="(https://github.com/ahmedfawzyjr)"><img alt="Ahmed Fawzy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedfawzyjr&bg_color=0a0005&color=ffffff&line=b300a7&point=5a585a&area=true&hide_border=true" /></a>
- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ✍️ Random Dev Quote: </h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2> 😂 Random Dev Meme: </h2>
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
