@@ -15,25 +15,25 @@
 <h2> 🌐 Socials: </h2>
 
 <div align="center">
-<a href="https://twitter.com/AhmedFawzy_11" target="_blank">
+<a href="https://twitter.com/ahmedfawzyjr" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/ahmedfawzy11" target="_blank">
+<a href="https://dev.to/ahmedfawzyjr" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ahmedfawzy1/" target="_blank">
+<a href="https://linkedin.com/in/ahmedfawzyjr/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/ahmed__fawzy" target="_blank">
+<a href="https://gitlab.com/ahmedfawzyjr" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/8146570/ahmed-fawzy" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/AhmedFawzy11" target="_blank">
+<a href="https://dribbble.com/ahmedfawzyjr" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/ahmedfawzy8" target="_blank">
+<a href="https://www.behance.net/ahmedfawzyjr" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 
@@ -79,17 +79,15 @@
 
 <h2> 📊 GitHub Stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=ahmedfawzy11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzy11&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzy11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzyjr&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2> 🏆 GitHub Trophies:</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=ahmedfawzy11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ⚡ Recent GitHub Activity: </h2>
@@ -99,12 +97,12 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ✍️ Random Dev Quote: </h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 😂 Random Dev Meme: </h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
