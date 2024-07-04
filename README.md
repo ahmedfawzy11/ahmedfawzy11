@@ -10,7 +10,6 @@
 - 👨‍💻 I’m Currently Working on [Flutter Projects]([https://www.buymeacoffee.com/ahmedfawzy](https://github.com/ahmedfawzyjr?tab=repositories))  
 - 🚀 I’m Currently Learning Mobile Development Using Flutter  
 - ❓ Ask Me About Anything Related to Mobile Development and Related Technologies  
-- 🤖 Here's [ My Resume ](https://drive.google.com/file/d/1UOs7ERgygxtI0qWAFPgehhryg2A5pImP/view?usp=sharing)  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 🌐 Socials: </h2>
 
