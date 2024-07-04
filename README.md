@@ -97,7 +97,9 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=default" /></div>  
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=default" alt="Spotify Profile"/>
+</div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![](https://visitcount.itsvg.in/api?id=ahmedfawzy11&icon=8&color=10)](https://visitcount.itsvg.in)
