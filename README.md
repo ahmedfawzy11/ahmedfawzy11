@@ -98,7 +98,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=default" alt="Spotify Profile"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=default" alt="Spotify Profile"/>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
